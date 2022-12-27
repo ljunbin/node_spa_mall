@@ -15,3 +15,5 @@
 9. 댓글 삭제 > commentDelete >> apiUrl = /comment/:_commentid >>> DELETE
 
 2022 12 27 시작
+
+** 상세 조회에는 req.params (path variable) 사용 **
